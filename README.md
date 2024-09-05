@@ -12,17 +12,17 @@ Finally, I tried to build my personal keymap manually based on what I figured ou
 ## What has changed?
 
 **Preferences**
-`Spacebar Action`: Tools
-`Select All Toggles`: enabled
+- Spacebar Action : Tools
+- Select All Toggles : enabled
 
 **Veiw2D**
-`Pan View`:<kbd>Shift</kbd><kbd>RMB</kbd>
+- Pan View : <kbd>Shift</kbd><kbd>RMB</kbd>
 
 
 **Veiw2D Buttons List**
-`Scroller Activate`:<kbd>RMB</kbd>
-`Pan View`:<kbd>RMB</kbd>
-`Zoom 2D View`:<kbd>Ctrl</kbd><kbd>RMB</kbd>
+- `Scroller Activate`:<kbd>RMB</kbd>
+- `Pan View`:<kbd>RMB</kbd>
+- `Zoom 2D View`:<kbd>Ctrl</kbd><kbd>RMB</kbd>
 
 **3D View (Global)**
 `Set 3D Cursor`:<kbd>Shift</kbd><kbd>MB4</kbd>
