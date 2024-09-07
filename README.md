@@ -8,6 +8,15 @@ Finally, I tried to build my personal keymap manually based on what I figured ou
 ‌
 >I prefer to avoid using <kbd>MMB</kbd> unless it's absolutely necessary. If this configuration doesn't suit you, I've detailed each key change for easy identification.
 
+---
+
+Release Note version 4.2.1.1
+
+**Fixed** : Pan view not working in Sculpt mode
+
+
+---
+
 
 ## What has changed?
 
