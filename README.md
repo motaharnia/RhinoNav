@@ -10,7 +10,7 @@ Finally, I tried to build my personal keymap manually based on what I figured ou
 
 ---
 
-Release Note version 4.2.1.1
+## Release Note version 4.2.1.1
 
 **Fixed** : Pan view not working in Sculpt mode
 
